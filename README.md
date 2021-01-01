@@ -1,2 +1,3 @@
-# github-test01
-Githubの勉強用リポジトリです。
+# github-test
+GitHubの勉強用リポジトリです。
+ユーザー2による更新。
